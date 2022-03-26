@@ -7,6 +7,9 @@ tot_rank, cur_rank = 1, 1
 
 
 if __name__ == '__main__' :
+
+    print('-----2021041047 허정윤-----')
+    
     for tmpTup in train :
         tName = tmpTup[0]
         tWeight = tmpTup[1]

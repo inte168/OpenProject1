@@ -9,6 +9,9 @@ i, j, k = 0, 0, 0
 
 
 if __name__ == "__main__":
+
+    print('-----2021041047 허정윤-----')
+    
     turtle.title('turtle list_fix')
     turtle.setup(width = swidth+50, height = sheight+50)
     turtle.screensize(swidth,sheight)
